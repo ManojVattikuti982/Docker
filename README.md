@@ -21,7 +21,7 @@ docker-compose --version
 
 ---
 
-#<h1 align="center">📦 DOCKER TASK</h1>
+<h1 align="center">📦 DOCKER TASK</h1>
 <h3 align="center">Run, Stop, and Remove HTTPD Container</h3>
 
 ---
