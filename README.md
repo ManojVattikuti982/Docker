@@ -19,7 +19,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 ```
 
-
 ---
 
 ##<h1 align="center">📦 DOCKER TASK</h1>
